@@ -1,8 +1,0 @@
-итого 16
-drwxrwxr-x  3 jennysiq jennysiq 4096 ліс  4 13:38 .
-drwxr-xr-x 23 jennysiq jennysiq 4096 ліс  4 12:56 ..
-drwxrwxr-x  8 jennysiq jennysiq 4096 ліс  4 13:37 .git
--rw-rw-r--  1 jennysiq jennysiq    0 ліс  4 12:11 HW11.txt
--rw-rw-r--  1 jennysiq jennysiq    0 ліс  4 13:26 Hw12.txt
--rw-rw-r--  1 jennysiq jennysiq   26 ліс  4 11:47 README.md
--rw-rw-r--  1 jennysiq jennysiq    0 ліс  4 13:38 test1.txt
